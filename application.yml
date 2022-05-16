@@ -1,0 +1,10 @@
+my:
+  greeting: Hello Worls
+  list:
+    values:
+      One,two
+  
+  db:
+    connection: connection-string-here-form-config-server
+    host: 127.0.1
+    port:1200
